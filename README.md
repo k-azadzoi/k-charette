@@ -1,4 +1,14 @@
-### Hi there 👋
+### Greetings, Friends! 👋 I'm Ken Charette, human full-stack web developer powered by the magic of coffee
+
+- :computer: I'm on the search for my first developer role.
+- :seedling: Honing my skills in **React, React Native, Node.js, Express, GraphQL/Apollo** or whatever else piques my interest.
+- :sunny: When I'm not coding I enjoy tennis :tennis:, video games :video_game:, and studying Japanese :crossed_flags:.
+- 📫 How to reach me: 
+  [Linkedin](https://www.linkedin.com/in/k-charette/) or [Twitter](https://twitter.com/ItsKenCharette)
+  
+  
+ ### Check out my portfolio :tada: [HERE](https://kencharette.com) :tada:
+
 
 <!--
 **k-charette/k-charette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
