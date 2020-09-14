@@ -3,7 +3,7 @@
 - :computer: I'm on the search for my first developer role.
 - :seedling: Honing my skills in **React, React Native, Node.js, Express, GraphQL/Apollo** or whatever else piques my interest.
 - :sunny: When I'm not coding I enjoy tennis :tennis:, video games :video_game:, and studying Japanese :crossed_flags:.
-- 📫 How to reach me: 
+- 📫  Let's get in contact! 
   [Linkedin](https://www.linkedin.com/in/k-charette/) or [Twitter](https://twitter.com/ItsKenCharette)
   
   
