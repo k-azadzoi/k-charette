@@ -1,4 +1,4 @@
-### 👋 Welcome to my Github Profile! &nbsp;I'm Ken Charette, human full-stack web developer from the planet Earth.
+### 👋  &nbsp;Welcome to my Github Profile! I'm Ken Charette, full-stack web developer from the planet Earth.
 
 - :computer: &nbsp;I'm on the search for my first developer role.
 - :seedling: &nbsp;Honing my skills in **React, React Native, Node.js, Express, GraphQL/Apollo** or whatever else piques my interest.
