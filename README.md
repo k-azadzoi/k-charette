@@ -1,7 +1,7 @@
 ### 👋  &nbsp;Welcome to my Github Profile! I'm Ken Charette, full-stack web developer from the Boston area.
 
 - :computer: &nbsp;I'm on the search for my first developer role.
-- :seedling: &nbsp;Honing my skills in **Python, Ruby, React, React Native, Node.js, Express, GraphQL/Apollo**
+- :seedling: &nbsp;Honing my skills in **Python, Ruby, React, React Native, Node.js, Express, GraphQL/Apollo**.
 - :sunny: &nbsp;When I'm not coding I enjoy tennis :tennis: , video games :video_game: , and studying Japanese :crossed_flags:.
 - 📫  &nbsp;Contact me via: 
   [Linkedin](https://www.linkedin.com/in/k-charette/) or [Twitter](https://twitter.com/ItsKenCharette)
