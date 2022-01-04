@@ -1,6 +1,6 @@
 ### 👋  &nbsp;Welcome to my Github Profile! I'm Ken Charette, Cloud DevOps Engineer and Full Stack Web Developer from the Boston area.
 
-- :computer: &nbsp;My goal for 2021 is to land a job in the field of Cloud DevOps.
+- :computer: &nbsp;My goal for 2022 is to continue my study of cloud technologies with a focus on Azure.
 - :seedling: &nbsp;Honing my skills in **Python, Ruby, React, React Native, Node.js, Express, GraphQL/Apollo**.
 - 🤔 I’m looking for help with learning more about **Jenkins, Docker, Kubernetes, CI/DI**.
 - :sunny: &nbsp;When I'm not coding I enjoy tennis :tennis: , video games :video_game: , and studying Japanese :crossed_flags:.
