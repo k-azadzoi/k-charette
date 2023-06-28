@@ -6,9 +6,6 @@
 - :sunny: &nbsp;When I'm not coding I enjoy tennis :tennis: , video games :video_game: , and studying Japanese :crossed_flags:.
 - 📫  &nbsp;Contact me via: 
   [Linkedin](https://www.linkedin.com/in/k-azadzoi/) or [Twitter](https://twitter.com/ItsKenCharette)
-  
-  
- ### Check out my portfolio :tada: [HERE](https://kencharette.com) :tada:
 
 
 <!--
